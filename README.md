@@ -1,5 +1,5 @@
 # Prediction-of-Product-Sales
-- This project uses pyhton, matplotlib, pandas, and seaborn to clean and visualize a dataset from multiple grocery stores, items within them, and statistics from those.
+- The objective of this project is to predict sales for food items sold at various stores by helping the retailer understand the properties of products and outlets that play crucial roles in increasing sales.
 
 - Below are two sample images from the type of visuals and plots I show throughout the project.
 ![item_type_fat_barplot](https://github.com/parkerholds/Prediction-of-Product-Sales/assets/140461361/2b31d106-90d1-4ebf-a126-8c23d4c30f2b)
