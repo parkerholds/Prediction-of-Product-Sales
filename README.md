@@ -40,6 +40,6 @@
 - RMSE = 1,057.529
 - R^2 = 0.595
 
-## Overall I recommend the tuned Random Forest model. It gives us our most realistic R^2 score and with further tuning I believe we can dial in the bias and variance better.
+### Overall I recommend the tuned Random Forest model. It gives us our most realistic R^2 score and with further tuning I believe we can dial in the bias and variance better.
  - The R^2 score also called the "coefficient of determination" basically describes the percentage of variation in the target (price) that a model can explain. A higher R^2 socre is better, where 1 means perfect fit on the data.
  - Another metric to look at is RMSE. This is the Root mean squared error and it rewards a model that is mroe consistent and punishes large errors. It is easy to interpert. In this case our target is price so we'll look at in dollars. Our RMSE in this case is $1,057.
