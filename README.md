@@ -15,6 +15,9 @@
  - Fruits and Vegetables have the most amount of items sold. Snack Foods are close behind with the 2nd most.
  - Breakfast and Seafood have the least amount sold.
 
+<img width="818" alt="importance_factor" src="https://github.com/parkerholds/Prediction-of-Product-Sales/assets/140461361/48526a47-3c14-4a31-8ca5-8aacb5153427">
+
+
 
 ## Data Cleaning
 - Addressed any duplicate rows
