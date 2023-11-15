@@ -16,7 +16,7 @@
  - Breakfast and Seafood have the least amount sold.
 
 <img width="818" alt="importance_factor" src="https://github.com/parkerholds/Prediction-of-Product-Sales/assets/140461361/48526a47-3c14-4a31-8ca5-8aacb5153427">
-- The image above shows the top 10 most important features. We'll focus on the top 5, which are Item MRP, Outlet Type - Grocery Store, Item Visibility, Item Weight, and Outlet Type - Supermarket 3. These five were the most helpful in growing/sorting the tree-based model.
+ - The image above shows the top 10 most important features. We'll focus on the top 5, which are Item MRP, Outlet Type - Grocery Store, Item Visibility, Item Weight, and Outlet Type - Supermarket 3. These five were the most helpful in growing/sorting the tree-based model.
 
 
 
