@@ -5,6 +5,9 @@
 - Below are two sample images from the type of visuals and plots I show throughout the project.
 ![item_mrp_boxplot](https://github.com/parkerholds/Prediction-of-Product-Sales/assets/140461361/8ceaf7c9-58e0-460d-bf0a-5e3ce3eb47c4)
 ![countplotitemssold](https://github.com/parkerholds/Prediction-of-Product-Sales/assets/140461361/9f1fed5d-d534-404d-9a30-b217b894d2e8)
+- This is an important barplot showing us which items have the most outlet sales.
+ - Fruits and Vegetables have the most amount of items sold. Snack Foods are close behind with the 2nd most.
+ - Breakfast and Seafood have the least amount sold.
 
 
 ## Data Cleaning
